@@ -1,12 +1,6 @@
-Tawafuq system is a dashboard for disputants and staff applications, membership, and cases online management contains the following sections:
- -Adding a new case (type of case, disputants data, case session date, and needed attachments)
- -Pending case requests
- -Organize sessions for cases
- -Prepare the beneficiaries
- -Cases Archive
- -Sessions Archive
- -Reports.
- -Membership Control.
- -system configuration.
- 
- Technologies: PHP, Laravel, bootstrap, JavaScript, MySQL, ajax
+This project allows viewing various products available and enables registered users
+  to purchase desired products instantly using the PayPal payment processor (Instant Pay)
+  and also can place an order by using the Cash on Delivery (Pay Later) option.
+  
+  
+    Technologies: PHP, Laravel, Livewire, bootstrap, JavaScript, MySQL, jquery
